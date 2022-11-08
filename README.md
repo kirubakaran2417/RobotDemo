@@ -7,3 +7,6 @@ Robot Framework is a generic open-source automation framework. Robot Framework i
 3. Run `robot -d Results Tests/TestName.robot` to execute a single Test. Run `robot -d Results Tests` to execute all Tests.
 4. Go to `Results` folder to get the HTML Reports.
 
+#Design your Readme file in https://readme.so/editor
+
+
